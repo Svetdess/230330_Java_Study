@@ -10,3 +10,5 @@
 
 Изучить Spring https://cloud.mail.ru/public/sBGa/pbWzVWYiH
 Изучить SOLID
+
+Ссылка на изучение дава с джетбрейнс https://hyperskill.org/study-plan
