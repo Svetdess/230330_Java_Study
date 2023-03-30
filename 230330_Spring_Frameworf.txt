@@ -1,2 +1,3 @@
 SPRING
 1. Официальный сайт https://spring.io/
+2. Курс в ютуб на русском языке автор alishev; https://www.youtube.com/watch?v=5ePo08sqcpk
