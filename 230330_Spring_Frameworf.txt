@@ -1,3 +1,10 @@
 SPRING
 1. Официальный сайт https://spring.io/
-2. Курс в ютуб на русском языке автор alishev; https://www.youtube.com/watch?v=5ePo08sqcpk
+2. Курс в ютуб на русском языке автор Наиль alishev; https://www.youtube.com/watch?v=5ePo08sqcpk
+3. Курс на русском языке автор Заур Трегулов в mail облаке https://cloud.mail.ru/public/sBGa/pbWzVWYiH
+4. Репозиторий maven https://mvnrepository.com/, выбрать зависимость spring-core, скопировать последнюю версию зависимости, тоже сделать для spring-beans
+тоже сделать для spring-context, вставить их в файл pom.xml, выбрать Enable-auto-import. В директории main создать директорию resources и пометить эту директорию, навести курсор и нажать правую кнопку мыши, выбрать mark directory as, выбрать recources root. Создать в директории main папку java, также пометить cources root.
+
+5. Бесплатно можно установить в среде Eclipse https://www.eclipse.org/downloads/packages/, установить Eclipse IDE for Enterprise Java and Web Developers
+
+
